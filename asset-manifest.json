@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Password-Generator/static/css/main.0bcfe991.css",
+    "main.js": "/Password-Generator/static/js/main.7ed46143.js",
+    "static/media/jetbrains-mono-all-400-normal.woff": "/Password-Generator/static/media/jetbrains-mono-all-400-normal.2346733ac7062d6402c0.woff",
+    "static/media/jetbrains-mono-latin-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-latin-400-normal.d0b41bd1d599bc0a52b7.woff2",
+    "static/media/jetbrains-mono-latin-ext-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-latin-ext-400-normal.53021e997dbfefccf2c1.woff2",
+    "static/media/jetbrains-mono-cyrillic-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-cyrillic-400-normal.1d6cd3473cb54d35e251.woff2",
+    "static/media/jetbrains-mono-greek-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-greek-400-normal.73ceb778928b9a4f63aa.woff2",
+    "static/media/jetbrains-mono-vietnamese-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-vietnamese-400-normal.cede87da6af30977265d.woff2",
+    "static/media/jetbrains-mono-cyrillic-ext-400-normal.woff2": "/Password-Generator/static/media/jetbrains-mono-cyrillic-ext-400-normal.e1822492eafb56ac8729.woff2",
+    "index.html": "/Password-Generator/index.html",
+    "main.0bcfe991.css.map": "/Password-Generator/static/css/main.0bcfe991.css.map",
+    "main.7ed46143.js.map": "/Password-Generator/static/js/main.7ed46143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bcfe991.css",
+    "static/js/main.7ed46143.js"
+  ]
+}
